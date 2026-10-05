@@ -12,9 +12,9 @@ class Producto {
     }
 }
 
-const producto1 = new Producto("PC de Escritorio", 900, 10, "img/PC de Escritorio.jpg");
-const producto2 = new Producto("Auriculares Bluetooth", 80, 15, "img/Auriculares Bluetooth.jpg");
-const producto3 = new Producto("Teclado Mecánico", 120, 15, "img/Teclado Mecánico.jpg");
+const producto1 = new Producto("PC de Escritorio", 900, 10, "PC de Escritorio.jpg");
+const producto2 = new Producto("Auriculares Bluetooth", 80, 15, "Auriculares Bluetooth.jpg");
+const producto3 = new Producto("Teclado Mecánico", 120, 15, "Teclado Mecánico.jpg");
 
 const catalogo = [producto1, producto2, producto3];
 
